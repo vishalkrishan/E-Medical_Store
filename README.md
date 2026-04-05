@@ -40,5 +40,5 @@ Admin Page
 Requesting New Medicine
 ![](img/Request.png)
 
-Though it is used for a single shop but with some advancement it can be made for a compelte city. Related to which codes will
+Though it is used for a single shop but with some advancement it can be made for a complete city. Related to which codes will
 be added later.
